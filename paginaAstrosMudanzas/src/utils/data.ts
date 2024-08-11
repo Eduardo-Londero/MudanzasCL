@@ -2,7 +2,7 @@ const services = [
     {
         title: "Fletes",
         description: "Nuestro servicio de fletes está diseñado para ofrecerte la máxima tranquilidad en el transporte de tus mercancías. Ya sea que necesites mover cargas pequeñas o grandes, nuestro equipo se encargará de cada detalle con profesionalismo y atención personalizada. Garantizamos un traslado seguro y puntual, adaptándonos a tus requerimientos para que puedas estar tranquilo, sabiendo que tus bienes están en las mejores manos.",
-        icon: `<div class="flex justify-center items-center"><img src="images/mudanzas5.jpg"  class="w-65 h-52" alt="Fletes" ></div>`,
+        icon: `<div style="background:url('images/mudanzas5.jpg'); width:100%; height:200px; content:'' ; box-sizing:border-box"></div>`,
     },
     {
         title: "Mudanzas",
