@@ -7,27 +7,27 @@
 }
 
 .bg-image-1 {
-  background-image: url('images/fletes.jpg');
+  background-image: url('../images/fletes.jpg');
 }
 
 .bg-image-2 {
-  background-image: url('images/mudanzas4.jpg');
+  background-image: url('../images/mudanzas4.jpg');
 }
 
 .bg-image-3 {
-  background-image: url('images/altura.jfif');
+  background-image: url('../images/altura.jfif');
 }
 
 .bg-image-4 {
-  background-image: url('images/embalaje.jpg');
+  background-image: url('../images/embalaje.jpg');
 }
 
 .bg-image-5 {
-  background-image: url('images/guardamuebles.jpg');
+  background-image: url('../images/guardamuebles.jpg');
 }
 
 .bg-image-6 {
-  background-image: url('images/viajeatodoelpais.jpg');
+  background-image: url('../images/viajeatodoelpais.jpg');
 }
 
 @media (max-width: 1280px) {
