@@ -1,0 +1,277 @@
+.responsive-image {
+  width: 20rem;
+  height: 200px;
+  content: '';
+  box-sizing: border-box;
+  background-size: cover;
+}
+
+.bg-image-1 {
+  background-image: url('images/fletes.jpg');
+}
+
+.bg-image-2 {
+  background-image: url('images/mudanzas4.jpg');
+}
+
+.bg-image-3 {
+  background-image: url('images/altura.jfif');
+}
+
+.bg-image-4 {
+  background-image: url('images/embalaje.jpg');
+}
+
+.bg-image-5 {
+  background-image: url('images/guardamuebles.jpg');
+}
+
+.bg-image-6 {
+  background-image: url('images/viajeatodoelpais.jpg');
+}
+
+@media (max-width: 1280px) {
+  .responsive-image {
+    width: 19rem; /* Cambia el ancho aquí */
+    
+  }
+}
+
+@media (max-width: 1240px) {
+  .responsive-image {
+    width: 18rem; /* Cambia el ancho aquí */
+  }
+}
+
+
+@media (max-width: 1190px) {
+  .responsive-image {
+    width: 17rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 1150px) {
+  .responsive-image {
+    width: 16rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 1090px) {
+  .responsive-image {
+    width: 15rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1040px) {
+  .responsive-image {
+    width: 14rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 1023px) {
+  .responsive-image {
+    width: 23rem; /* Cambia el ancho aquí */
+  }
+}
+
+
+@media (max-width: 1000px) {
+  .responsive-image {
+    width: 22rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 960px) {
+  .responsive-image {
+    width: 21rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 930px) {
+  .responsive-image {
+    width: 20rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 900px) {
+  .responsive-image {
+    width: 19rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 870px) {
+  .responsive-image {
+    width: 18rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 840px) {
+  .responsive-image {
+    width: 17rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 800px) {
+  .responsive-image {
+    width: 16rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 730px) {
+  .responsive-image {
+    width: 15rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 690px) {
+  .responsive-image {
+    width: 14rem; /* Cambia el ancho aquí */
+  }
+}
+
+@media (max-width: 639px) {
+  .responsive-image {
+    width: 33rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 620px) {
+  .responsive-image {
+    width: 32rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 605px) {
+  .responsive-image {
+    width: 31rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 590px) {
+  .responsive-image {
+    width: 30rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 570px) {
+  .responsive-image {
+    width: 29rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 560px) {
+  .responsive-image {
+    width: 28rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 540px) {
+  .responsive-image {
+    width: 27rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 530px) {
+  .responsive-image {
+    width: 26rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 510px) {
+  .responsive-image {
+    width: 25rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 490px) {
+  .responsive-image {
+    width: 24rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 475px) {
+  .responsive-image {
+    width: 23rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 460px) {
+  .responsive-image {
+    width: 22rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 450px) {
+  .responsive-image {
+    width: 21rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 430px) {
+  .responsive-image {
+    width: 20rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 420px) {
+  .responsive-image {
+    width: 19rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 400px) {
+  .responsive-image {
+    width: 18rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 390px) {
+  .responsive-image {
+    width: 17rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 365px) {
+  .responsive-image {
+    width: 16rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 350px) {
+  .responsive-image {
+    width: 15rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 330px) {
+  .responsive-image {
+    width: 14rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
+
+@media (max-width: 315px) {
+  .responsive-image {
+    width: 13rem; /* Cambia el ancho aquí */
+    ;
+  }
+}
